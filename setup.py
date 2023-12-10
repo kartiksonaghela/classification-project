@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "classification-project"
 AUTHOR_USER_NAME = "kartiksonaghela"
-SRC_REPO = "classification-project"
+SRC_REPO = "classification_project"
 AUTHOR_EMAIL = "kbs.kartik@gmail.com"
 
 

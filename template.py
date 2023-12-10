@@ -5,7 +5,7 @@ import logging
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 
 
-project_name="classification-project"
+project_name="classification_project"
 
 list_of_files = [
     ".github/workflows/.gitkeep",
